@@ -1,0 +1,1 @@
+This is Jeong's first git project!
